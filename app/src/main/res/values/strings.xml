@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercise -Task manager</string>
+    <string name="taskCopleted">All tasks completed</string>
+    <string name="motivationInfo">Nice work!</string>
+</resources>
