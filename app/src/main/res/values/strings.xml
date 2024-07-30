@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercise Compose Quadrant</string>
+    <string name="textBox1">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="textBox2">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="textBox3">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="textBox4">A layout composable that places its children in a vertical sequence.</string>
+    <string name="head1">Text composable</string>
+    <string name="head2">Image composable</string>
+    <string name="head3">Row composable</string>
+    <string name="head4">Column composable</string>
+</resources>
